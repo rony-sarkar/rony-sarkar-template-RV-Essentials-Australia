@@ -230,7 +230,7 @@ th {
 .csslider {
     position: relative;
     float: left;
-    width: 100%;
+    width: 325px;
     overflow: hidden;
 }
 
